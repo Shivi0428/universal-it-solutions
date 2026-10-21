@@ -98,7 +98,7 @@ export default function Hero() {
           />
           <img
             src="https://images.unsplash.com/photo-1748345952129-3bdd7d39f155?auto=format&fit=crop&w=1400&q=80"
-            alt="The Antares Info Solutions engineering and marketing team collaborating"
+            alt="The Universal IT Solutions engineering and marketing team collaborating"
             loading="lazy"
             className="relative w-full rounded-2xl object-cover"
             style={{ aspectRatio: "16/8", border: "1px solid #E2E8F0", boxShadow: "0 20px 40px -12px rgba(15,23,42,0.2)" }}
