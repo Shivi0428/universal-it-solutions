@@ -18,7 +18,7 @@ export default function About() {
           />
           <img
             src="https://images.unsplash.com/photo-1582005450386-52b25f82d9bb?auto=format&fit=crop&w=900&q=80"
-            alt="The Antares Info Solutions team at work"
+            alt="The Universal IT Solutions team at work"
             loading="lazy"
             className="relative w-full aspect-[4/5] object-cover rounded-2xl"
             style={{ border: "1px solid #E2E8F0", boxShadow: "0 12px 28px -8px rgba(15,23,42,0.15)" }}
@@ -26,9 +26,9 @@ export default function About() {
         </div>
 
         <div className="lg:col-span-3">
-          <h2 className="text-3xl md:text-4xl font-extrabold text-slate-900 mb-6">About Antares Info Solutions</h2>
+          <h2 className="text-3xl md:text-4xl font-extrabold text-slate-900 mb-6">About Universal IT Solutions</h2>
           <p style={{ color: "#475569" }} className="leading-relaxed mb-5">
-            Antares Info Solutions is a UK-based technology company delivering software development, mobile app
+            Universal IT Solutions is a UK-based technology company delivering software development, mobile app
             development, ERP solutions, cloud transformation, and digital marketing to businesses of every size. With
             10+ years of hands-on experience across our team, we've built a reputation as a dependable, full-spectrum
             technology partner for clients who care more about the quality of the work than the size of the invoice.

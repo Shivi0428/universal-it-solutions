@@ -23,9 +23,9 @@ export default function Footer() {
                 className="w-8 h-8 rounded-lg flex items-center justify-center font-extrabold text-white"
                 style={{ background: "linear-gradient(135deg, #0d9488, #0891b2)" }}
               >
-                A
+                U
               </div>
-              <span className="text-white font-bold">Antares Info Solutions</span>
+              <span className="text-white font-bold">Universal IT Solutions</span>
             </div>
             <p className="text-sm leading-relaxed">
               UK-based software, cloud and digital marketing partner for growing businesses.
@@ -76,7 +76,8 @@ export default function Footer() {
         </div>
 
         <div className="pt-6 text-center text-xs" style={{ borderTop: "1px solid #334155", color: "#64748B" }}>
-          © {new Date().getFullYear()} Antares Info Solutions. All rights reserved.
+          © {new Date().getFullYear()} Universal IT Solutions. Portfolio demo project: the company, clients, testimonials
+          and figures shown are fictional.
         </div>
       </div>
     </footer>

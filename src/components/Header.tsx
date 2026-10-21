@@ -38,9 +38,9 @@ export default function Header() {
         {/* Logo */}
         <a href="#top" className="flex items-center gap-2.5 shrink-0">
           <div className="w-9 h-9 rounded-lg flex items-center justify-center font-extrabold text-white" style={{ background: "linear-gradient(135deg, #0d9488, #0891b2)" }}>
-            A
+            U
           </div>
-          <span className="text-slate-900 font-bold text-lg tracking-tight">Antares Info Solutions</span>
+          <span className="text-slate-900 font-bold text-lg tracking-tight">Universal IT Solutions</span>
         </a>
 
         {/* Desktop nav */}

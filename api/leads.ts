@@ -55,7 +55,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   try {
     const resend = new Resend(apiKey);
     await resend.emails.send({
-      from: "Antares Info Solutions <onboarding@resend.dev>",
+      from: "Universal IT Solutions <onboarding@resend.dev>",
       to: adminEmail,
       subject: `New consultation request from ${clean.fullName} (${clean.companyName})`,
       html: `
