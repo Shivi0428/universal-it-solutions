@@ -1,8 +1,5 @@
-// PLACEHOLDER PORTFOLIO — the old site had 7 real project thumbnails here.
-// These are generic, freely-licensed stock photos (Unsplash, free for
-// commercial use, no attribution required) standing in for real project
-// screenshots until Amit provides actual client work to show. Do not
-// present these as real client projects; swap in actual screenshots first.
+// PLACEHOLDER PORTFOLIO: generic, freely-licensed stock photos (Unsplash,
+// free for commercial use, no attribution required). Not real client projects.
 const PROJECTS = [
   {
     title: "SaaS Analytics Dashboard",
